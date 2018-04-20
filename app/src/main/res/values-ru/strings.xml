@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Films</string>
+    <string name="toolbar_title">Фильмы</string>
+    <string name="error_obtaining_films">Произошла ошибка при получении списка фильмов</string>
+    <string name="error_internet">Проверьте интернет соединение</string>
+</resources>
